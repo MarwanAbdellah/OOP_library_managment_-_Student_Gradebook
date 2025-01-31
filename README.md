@@ -14,12 +14,6 @@ This project was initially built with Object-Oriented Programming (OOP) concepts
 - **Error Handling:** Gracefully handle input validation and file operation errors.
 - **Graphical User Interface:** User-friendly GUI applications built using Tkinter.
 
-## Project Structure
-project-root/
-├── oop_project.ipynb            # Original notebook with OOP implementation
-├── library_management_gui.exe   # GUI-based library management app
-├── gradebook_gui.exe            # GUI-based gradebook management app (optional extension)
-└── README.md                     # Project documentation
 ## Installation and Setup
 To run the GUI applications, follow these steps:
 
